@@ -16,7 +16,7 @@ Right click and drag - Look
 
 ## Media:
 
-[](https://github.com/Bilal-A-G/Procedural-Terrain/blob/main/Media/Procedurally%20Generated%20Terrain.gif)
+![](https://github.com/Bilal-A-G/Procedural-Terrain/blob/main/Media/Procedurally%20Generated%20Terrain.gif)
 
 ## Itch link:
 
